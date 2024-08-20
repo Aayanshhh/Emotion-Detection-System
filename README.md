@@ -1,10 +1,10 @@
 # Emotion Detection System 🎭
 
-This repository contains an **Emotion Detection System** built using **ResNet** (Residual Neural Network), a state-of-the-art deep learning model for image classification tasks. The system is capable of analyzing facial expressions in images and classifying them into various emotional states. The project is deployed using **Gradio** for a seamless user interface.
+This repository contains an Emotion Detection System built using ResNet50, a state-of-the-art deep learning model for image classification tasks. The system can analyze facial expressions in real-time or from images and classify them into various emotional states. The project is deployed using Gradio for an interactive and user-friendly interface
 
 ## Features 🚀
 
-- **Real-time Emotion Detection**: Detects emotions from images with high accuracy.
+- **Real-time Emotion Detection**: Detects emotions from live webcam feed or uploaded images with high accuracy..
 - **Data Augmentation**: Utilizes techniques like random rotations, zooming, shifting, and flipping to improve model generalization.
 - **Interactive Web Interface**: Built with **Gradio**, allowing users to upload images and view predictions in real-time.
 
